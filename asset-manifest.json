@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bmicalculator-react-js/static/css/main.25cc13ee.css",
+    "main.js": "/bmicalculator-react-js/static/js/main.5b7db993.js",
+    "static/js/592.959d6040.chunk.js": "/bmicalculator-react-js/static/js/592.959d6040.chunk.js",
+    "index.html": "/bmicalculator-react-js/index.html",
+    "main.25cc13ee.css.map": "/bmicalculator-react-js/static/css/main.25cc13ee.css.map",
+    "main.5b7db993.js.map": "/bmicalculator-react-js/static/js/main.5b7db993.js.map",
+    "592.959d6040.chunk.js.map": "/bmicalculator-react-js/static/js/592.959d6040.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25cc13ee.css",
+    "static/js/main.5b7db993.js"
+  ]
+}
